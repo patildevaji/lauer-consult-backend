@@ -1,0 +1,16 @@
+com/lauerconsult/website/repository/JobApplicationRepository.class
+com/lauerconsult/website/DTO/JobPostingDTO.class
+com/lauerconsult/website/entity/JobApplication.class
+com/lauerconsult/website/service/JobService.class
+com/lauerconsult/website/entity/JobPosting$JobPostingBuilder.class
+com/lauerconsult/website/controller/JobApplicationController.class
+com/lauerconsult/website/WebsiteApplication.class
+com/lauerconsult/website/DTO/JobApplicationDTO.class
+com/lauerconsult/website/repository/JobPostingRepository.class
+com/lauerconsult/website/DTO/JobPostingDTO$JobPostingDTOBuilder.class
+com/lauerconsult/website/DTO/JobApplicationDTO$JobApplicationDTOBuilder.class
+com/lauerconsult/website/controller/JobController.class
+com/lauerconsult/website/entity/JobApplication$JobApplicationBuilder.class
+com/lauerconsult/website/service/JobApplicationService.class
+com/lauerconsult/website/entity/JobPosting.class
+com/lauerconsult/website/entity/JobType.class
